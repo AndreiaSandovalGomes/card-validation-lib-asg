@@ -1,0 +1,24 @@
+{
+  "name": "card-validation-lib-asg",
+  "version": "1.0.0",
+  "description": "credit card validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "cardvalidator()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiaSandovalGomes/card-validation-lib-asg.git"
+  },
+  "author": "Andreia Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiaSandovalGomes/card-validation-lib-asg/issues"
+  },
+  "homepage": "https://github.com/AndreiaSandovalGomes/card-validation-lib-asg#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "wallaby": "^1.0.1"
+  }
+}
