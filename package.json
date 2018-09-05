@@ -1,6 +1,6 @@
 {
   "name": "card-validation-lib-asg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "credit card validation",
   "main": "index.js",
   "scripts": {
