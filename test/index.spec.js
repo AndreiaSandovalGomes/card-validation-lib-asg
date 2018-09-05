@@ -1,8 +1,7 @@
 const mocha = require('mocha');
 const chai = require('chai');
-const lib = require('../lib/index');
 const expect = chai.expect;
-const cardValidator = lib.cardValidator;
+const cardValidator = require('../lib/index');
 
 describe('lib', () => {
   describe('#cardValidator', () => {
